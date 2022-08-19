@@ -1,5 +1,6 @@
 # Cancer-vs-non-Cancer-text-classification
 
+Implemented the Naive Bayes algorithm from the scratch. 
 Download and unzip the folder given. Kindly keep all the documents within the same folder. Do not move files out of the folder.
 
 You will be needed to provide input.
